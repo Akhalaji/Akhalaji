@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Quantum Cmputing and machine learning .
 - 💞️ I’m looking to collaborate on ML project and .... .
 - 📫 How to reach me => Alirezakhalaji1401@gmail.com .
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.py
 - ⚡ Fun fact: I enjoy studying Biology .
 
 <!---
