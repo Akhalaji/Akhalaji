@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML project and .... .
 - 📫 How to reach me => Alirezakhalaji1401@gmail.com .
 - 😄 Pronouns: He/Him.py
-- ⚡ Fun fact: I enjoy studying Biology .
+- ⚡ Fun fact: I enjoy studying Quantum mechanics and Biology .
 
 <!---
 Akhalaji/Akhalaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
